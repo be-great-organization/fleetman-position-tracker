@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: 'macOS-11.1'
+  vmImage: 'macOS-10.14'
 
 steps:
 - task: Maven@3
